@@ -1,0 +1,15 @@
+/* General styles for the letter page */
+
+.video-container {
+  position: relative;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.letter-video {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
